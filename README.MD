@@ -68,4 +68,4 @@ Create the automations in Home Assistant and then create the scripts.
 
 ## Additional Notes
 - These scripts rely on the `eufy_security.snooze` service. Ensure the **Eufy Security integration** is properly configured in Home Assistant.
-- You can customize the snooze duration or affected cameras by editing the `entity_id` and `snooze_time` parameters in the scripts.
+- You can customize the snooze duration or affected cameras by editing the `entity_id` and `snooze_time` parameters in the automations.
