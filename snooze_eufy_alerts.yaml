@@ -1,5 +1,5 @@
 alias: Snooze Eufy Alerts
-description: snooze motion alerts on outside cameras for 60 minutes
+description: snooze motion alerts on outside cameras for 12 hours
 triggers:
   - event_type: manual_trigger
     trigger: event
