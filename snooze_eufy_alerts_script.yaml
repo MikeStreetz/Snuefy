@@ -1,0 +1,8 @@
+sequence:
+  - target:
+      entity_id: automation.snooze_eufy_alerts
+    action: automation.trigger
+    data:
+      skip_condition: true
+alias: snooze eufy alerts
+description: ""

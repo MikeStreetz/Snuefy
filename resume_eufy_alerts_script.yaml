@@ -1,0 +1,8 @@
+sequence:
+  - target:
+      entity_id: automation.resume_eufy_alerts
+    action: automation.trigger
+    data:
+      skip_condition: true
+alias: resume eufy alerts
+description: ""
