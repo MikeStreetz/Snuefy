@@ -16,7 +16,7 @@ actions:
         - camera.7
         - camera.8
         - camera.9 
-      snooze_time: 60
+      snooze_time: 43200
       snooze_chime: false
       snooze_motion: true
       snooze_homebase: false
