@@ -7,15 +7,15 @@ conditions: []
 actions:
   - data:
       entity_id:
-        - camera.backyard
-        - camera.backyard_2
-        - camera.barn_door
-        - camera.garage
-        - camera.garage_2
-        - camera.garage_3
-        - camera.woodshed
-        - camera.skelecam
-        - camera.doorbell
+        - camera.1
+        - camera.2
+        - camera.3
+        - camera.4
+        - camera.5
+        - camera.6
+        - camera.7
+        - camera.8
+        - camera.9 
       snooze_time: 60
       snooze_chime: false
       snooze_motion: true
