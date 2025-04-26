@@ -47,7 +47,7 @@ Create the automations in Home Assistant and then create the scripts.
 
 ## Features
 
-- **Snooze Eufy Alerts**: Temporarily disables motion alerts on specified cameras for a set duration (default is 60 minutes).
+- **Snooze Eufy Alerts**: Temporarily disables motion alerts on specified cameras for a set duration (default is 12 hours or 43200 seconds).
 - **Resume Eufy Alerts**: Resumes motion alerts immediately on the same cameras after snoozing.
 
 ---
