@@ -1,4 +1,6 @@
 # Help File: Eufy Alerts Management Scripts
+## Note
+To have a higher snooze duration than 1000 seconds you need to edit your services.yaml file on line 300 to change the max value to 43200. 
 
 ## Overview
 This document provides details on two Home Assistant automations and corresponding scripts designed to manage motion alerts for Eufy cameras. The scripts are used to present the Eufy cameras to Alexa.
